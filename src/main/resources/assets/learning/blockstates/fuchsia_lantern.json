@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "learning:block/fuchsia_lantern_jsons/fuchsia_lantern"
+    },
+    "hanging=true": {
+      "model": "learning:block/fuchsia_lantern_jsons/fuchsia_lantern_hanging"
+    }
+  }
+}

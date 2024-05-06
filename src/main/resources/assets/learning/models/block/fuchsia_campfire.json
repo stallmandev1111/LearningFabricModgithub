@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_campfire",
+  "textures": {
+    "fire": "learning:block/fuchsia_camp_flame",
+    "lit_log": "learning:block/fuchsia_camp_log"
+  }
+}
